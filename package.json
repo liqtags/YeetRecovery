@@ -1,0 +1,16 @@
+{
+  "name": "yeetrecovery",
+  "version": "1.0.0",
+  "description": "This Script will help you recover a airdrop from your Yeeted / Compromised Wallet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^0.4.4",
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
